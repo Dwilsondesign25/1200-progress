@@ -1,0 +1,17 @@
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.csproj.AssemblyReference.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.AssemblyInfoInputs.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.AssemblyInfo.cs
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\RestaurantTableBooking.Service.deps.json
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\RestaurantTableBooking.Service.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\RestaurantTableBooking.Service.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\LSC.RestaurauntTableBookingApp.Core.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\LSC.RestaurauntTableBookingApp.Core.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\bin\Debug\net7.0\LSC.ResterauntTableBookingApp.Data.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\Restaura.35D5A54D.Up2Date
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\refint\RestaurantTableBooking.Service.dll
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\RestaurantTableBooking.Service.pdb
+C:\Users\Andrew Wilson\TableBookingApp\RestaurauntTableBookingApp.API\RestaurantTableBooking.Service\obj\Debug\net7.0\ref\RestaurantTableBooking.Service.dll
